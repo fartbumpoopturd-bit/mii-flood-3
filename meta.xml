@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>MiiFlood</name>
+  <coder>itsalloverand</coder>
+  <version>1.0</version>
+  <release_date>20261010120000</release_date>
+  <short_description>Bulk-import Miis into the Mii Parade</short_description>
+  <long_description>Merges Miis from SD/USB (.mii files, .miis bundles, or other consoles' RFL_DB.dat) into the Mii Parade (up to 10,000), keeps an unlimited archive on the card, and backs up RFL_DB.dat before every change.
+
+Folder: apps/MiiFlood/import</long_description>
+</app>
